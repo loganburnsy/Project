@@ -1,0 +1,44 @@
+/* Created by Logan Burns on July 29th, 2015
+All files for this Web site link to this style sheet */
+
+h1 {
+  background-color: gray;
+  margin: 0 0 0 10px;
+  padding: 4px;
+  text-align: center;
+}
+
+h2 {
+  background-color: gray;
+  margin: 10px 0 0 10px;
+  padding: 4px;
+  text-align: center;
+}
+
+h3 {
+  border-bottom: solid thick blue;
+  padding-bottom: 0.5em;
+}
+
+h4 {
+  border-bottom: solid thick blue;
+  display: inline;
+  padding: 4px;
+  color: white;
+}
+
+
+img.right {
+  float: right;
+  margin: 10px 0 10px 10px;
+}
+
+img.left {
+  float: left;
+  margin: 10px 0 10px 10px;
+}
+
+img.center {
+  float: center;
+  margin: 10px 0 10px 10px;
+}
